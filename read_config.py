@@ -14,6 +14,3 @@ TOKEN = config_data['TOKEN']
 
 
 # Mail
-
-
-#
