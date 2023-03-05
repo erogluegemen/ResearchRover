@@ -15,6 +15,6 @@ There are multiple ways to distribute data on different platforms:
 - Mail Bot <i>(in progress)</i>
 
 ### 1.) Discord:
-<img align="right" alt="right image" width="400" height="300" src="https://user-images.githubusercontent.com/30879498/222245459-1fcc12ff-38cf-4c74-91e6-a79bafac2b0c.png">
-<img align="left" alt="left image" width="400" height="300" src="https://user-images.githubusercontent.com/30879498/222245650-ac857376-3331-4b5d-b270-dce089cc7f54.png">
+<img align="right" alt="right image" width="300" height="300" src="https://user-images.githubusercontent.com/30879498/222245459-1fcc12ff-38cf-4c74-91e6-a79bafac2b0c.png">
+<img align="left" alt="left image" width="300" height="300" src="https://user-images.githubusercontent.com/30879498/222245650-ac857376-3331-4b5d-b270-dce089cc7f54.png">
 
